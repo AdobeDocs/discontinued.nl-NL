@@ -1,16 +1,16 @@
 ---
 source-git-commit: 9415588f8d42414d8d9deade1a59a7cdb55a2940
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '170'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 # MIT-licentie
 
-© Copyright 2021 Adobe. all rights reserved.
+© Copyright 2021 Adobe. All rights reserved.
 
-Hierbij wordt kosteloos een machtiging verleend aan eenieder die een kopie van deze software en de bijbehorende documentatiebestanden (de &quot;Software&quot;) ontvangt, om zonder beperking in de Software te handelen, met inbegrip van de rechten om, onder de volgende voorwaarden, kopieën van de Software te gebruiken, te kopiëren, te wijzigen, samen te voegen, te publiceren, te sublicentiëren en/of te verkopen, en om personen aan wie de Software wordt geleverd, toe te staan dit te doen:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-De bovenstaande copyrightkennisgeving en deze machtigingskennisgeving worden opgenomen in alle exemplaren of belangrijke delen van de Software.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-DE SOFTWARE WORDT &quot;AS IS&quot; VERSTREKT, ZONDER ENIGE SOORT GARANTIE, UITDRUKKELIJK OF IMPLICIET, INCLUSIEF MAAR NIET BEPERKT TOT DE GARANTIES VAN MERKANTABILITEIT, PLAATSBAARHEID VOOR EEN BEPAALD DOEL EN NIET-INBREUK. IN GEEN GEVAL ZIJN DE AUTEURS OF DE HOUDERS VAN HET COPYRIGHT AANSPRAKELIJK VOOR EEN AANVRAAG, SCHADE OF ANDERE AANSPRAKELIJKHEID, OF HET EEN ACTIE VAN CONTRACT, TEORT OF ANDERS IS, DIE VOORTVLOEIT UIT, UIT OF IN VERBAND MET DE SOFTWARE OF HET GEBRUIK OF ANDERE AFWIJKINGEN IN DE SOFTWARE.
+THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
