@@ -1,29 +1,29 @@
 ---
-title: "[!DNL Adobe Search&Promote] Aankondiging van einde service"
-description: Meer informatie over de [!DNL Adobe Search&Promote] Aankondiging van einde service.
+title: "[!DNL Adobe Search&Promote] Aankondiging beëindiging service"
+description: Meer informatie over de [!DNL Adobe Search&Promote] aankondiging beëindiging service.
 exl-id: 1e062554-090b-4275-8595-8ae4233c58d7
 source-git-commit: 8089325de90b03d573df28483428c2b82d221cd4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '179'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# [!DNL Adobe Search&Promote] Aankondiging van einde service
+# [!DNL Adobe Search&Promote] Aankondiging beëindiging service
 
-## Veelgestelde vragen over einde van service voor [!DNL Search&Promote]
+## Veelgestelde vragen over de beëindiging van de service voor [!DNL Search&Promote]
 
-### **_Op welke datum [!DNL Search&Promote] ophouden te werken?_**
+### **_Op welke datum stopt [!DNL Search&Promote] met functioneren?_**
 
-End of Service for [!DNL Adobe Search&Promote] is gepland voor **1 september 2022**. Op die datum [!DNL Search&Promote] de administratieve gebruikersinterface zal niet meer toegankelijk zijn en verzoeken aan [!DNL Search&Promote] API&#39;s leveren geen resultaten meer. Vóór deze datum, zal de dienst volledig beschikbaar en functioneel zijn. Vooruitlopend op 1 september 2022, contractuele rechten op [!DNL Search&Promote] niet meer worden toegestaan na 31 augustus 2022.
+De beëindiging van de service van [!DNL Adobe Search&Promote] is gepland voor **1 september 2022**. Op die datum is de [!DNL Search&Promote] administratieve gebruikersinterface niet langer toegankelijk en zullen aanvragen aan [!DNL Search&Promote] API&#39;s geen resultaten meer opleveren. Vóór deze datum zal de service volledig beschikbaar en functioneel zijn. Vooruitlopend op 1 september 2022 worden contractuele rechten op [!DNL Search&Promote] niet meer toegestaan na 31 augustus 2022.
 
-### **_Wat gebeurt er als een zoekopdracht of andere API-aanvraag wordt uitgevoerd op [!DNL Search&Promote]?_**
+### **_Wat gebeurt er als een zoekopdracht of andere API-aanvraag wordt uitgevoerd bij [!DNL Search&Promote]?_**
 
-Zoeken en andere API-verzoeken gericht op [!DNL Search&Promote] retourneert geen resultaten meer. Aanvragen kunnen resulteren in een fout &#39;Host niet gevonden&#39;, een 3xx HTTP-omleiding of een HTTP-fout zoals 404, 408 of een andere HTTP-foutcode.
+Zoekopdrachten en andere API-aanvragen die zijn gedaan aan [!DNL Search&Promote], zullen geen resultaten meer retourneren. Aanvragen kunnen resulteren in een fout &#39;Host niet gevonden&#39;, een 3xx HTTP-omleiding of een HTTP-fout zoals 404, 408 of een andere HTTP-foutcode.
 
-### **_Beschikt Adobe over alternatieve mogelijkheden voor het zoeken naar locaties en de handel?_**
+### **_Heeft Adobe alternatieve opties voor het zoeken op sites en naar commerce?_**
 
-Ja. Voor zoek naar producten en handel [Live zoeken van [!DNL Adobe Commerce]](https://devdocs.magento.com/live-search/overview.html) is de Adobe zoektoepassing die verdergaat.
+Ja. Voor het zoeken naar producten en commerce is [Live Search van [!DNL Adobe Commerce]](https://devdocs.magento.com/live-search/overview.html) de toekomstige zoektoepassing van Adobe.
 
 <!-- ### **_Can Adobe recommend any frameworks or platforms that offer features similar to Search&Promote?_**
 
@@ -33,4 +33,4 @@ Ja. Voor zoek naar producten en handel [Live zoeken van [!DNL Adobe Commerce]](h
 
 ### **_Met wie kan ik contact opnemen voor meer informatie?_**
 
-Neem contact op met uw Customer Success Manager (CSM) met vragen of neem contact op met het Adobe-team op [searchquestions@adobe.com](mailto:searchquestions@adobe.com).
+Neem bij vragen contact op met uw Customer Success Manager (CSM) of neem contact op met het Adobe-team via [searchquestions@adobe.com](mailto:searchquestions@adobe.com).
