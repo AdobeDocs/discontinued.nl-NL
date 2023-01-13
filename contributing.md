@@ -1,8 +1,8 @@
 ---
 source-git-commit: eb20d5194b79b713249ae97556c67c926cc4356d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '294'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 # Bijdragen
@@ -19,7 +19,7 @@ wordt van u verwacht dat u deze code volgt. Meld onaanvaardbaar gedrag aan
 
 ## Documentatie voor de bijdragershandleiding
 
-Zie de [Handleiding voor bijdragers](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
+Zie de [Handleiding voor bijdragers](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=nl).
 
 ## Hebt u een vraag?
 
