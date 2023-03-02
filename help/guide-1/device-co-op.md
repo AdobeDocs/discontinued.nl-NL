@@ -3,10 +3,10 @@ keywords: adobe experience cloud;Adobe Experience Cloud;device co-op;Device Co-o
 title: "Veelgestelde vragen over het einde van levensduur voor [!DNL Device Co-op]"
 description: Ontdek meer over de plannen voor het einde van de levensduur voor de Device Co-op.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
-source-git-commit: 8089325de90b03d573df28483428c2b82d221cd4
-workflow-type: ht
-source-wordcount: '1085'
-ht-degree: 100%
+source-git-commit: 180dd414dd0b595518f54cddc5b02ed06ecc0b16
+workflow-type: tm+mt
+source-wordcount: '1133'
+ht-degree: 95%
 
 ---
 
@@ -101,3 +101,8 @@ Het gebruik van andere functies is niet verplicht. Het wordt alleen aanbevolen a
 ## Hoe lang duurt het overnemen?
 
 Dit is afhankelijk van de functie. Als een Analytics Ultimate-klant die Cross-Device Analytics met [!DNL Device Co-op] gebruikt, bijvoorbeeld moet migreren naar Real-time Private Device Graph of Field-Based Stitching, duurt de overname enige tijd.
+
+## Hoe zit het met de [!UICONTROL People] metrisch?
+
+Met de afgekeurde [!DNL Device Co-op]de [!UICONTROL People] De metrische waarde is niet meer relevant. In de nabije toekomst (datum TBD) verwijderen we de [!UICONTROL People] metrisch. Op dat moment zullen we de gegevens doorsturen naar de [!UICONTROL Unique Visitor] Metrisch in Analytics om projecten, segmenten en berekende metriek van het breken te verhinderen.
+
