@@ -4,9 +4,9 @@ title: "Veelgestelde vragen over het einde van levensduur voor [!DNL Device Co-o
 description: Ontdek meer over de plannen voor het einde van de levensduur voor de Device Co-op.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
 source-git-commit: 180dd414dd0b595518f54cddc5b02ed06ecc0b16
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1133'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -102,7 +102,7 @@ Het gebruik van andere functies is niet verplicht. Het wordt alleen aanbevolen a
 
 Dit is afhankelijk van de functie. Als een Analytics Ultimate-klant die Cross-Device Analytics met [!DNL Device Co-op] gebruikt, bijvoorbeeld moet migreren naar Real-time Private Device Graph of Field-Based Stitching, duurt de overname enige tijd.
 
-## Hoe zit het met de [!UICONTROL People] metrisch?
+## Hoe zit het met de indicator [!UICONTROL People]?
 
-Met de afgekeurde [!DNL Device Co-op]de [!UICONTROL People] De metrische waarde is niet meer relevant. In de nabije toekomst (datum TBD) verwijderen we de [!UICONTROL People] metrisch. Op dat moment zullen we de gegevens doorsturen naar de [!UICONTROL Unique Visitor] Metrisch in Analytics om projecten, segmenten en berekende metriek van het breken te verhinderen.
+Met de beëindiging van de [!DNL Device Co-op] is de indicator [!UICONTROL People] niet langer relevant. In de nabije toekomst (datum TBD) verwijderen we de indicator [!UICONTROL People]. Op dat moment zullen we de gegevens omleiden naar de indicator [!UICONTROL Unique Visitor] in Analytics om te voorkomen dat projecten, segmenten en berekende statistieken beschadigd raken.
 
