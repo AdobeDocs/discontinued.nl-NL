@@ -2,10 +2,10 @@
 title: "[!DNL Adobe Search&Promote] Aankondiging beëindiging service"
 description: Meer informatie over de [!DNL Adobe Search&Promote] aankondiging beëindiging service.
 exl-id: 1e062554-090b-4275-8595-8ae4233c58d7
-source-git-commit: 8089325de90b03d573df28483428c2b82d221cd4
+source-git-commit: d9284331dedc7534dbcaf6eb1b44a7506af5baa0
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -13,17 +13,17 @@ ht-degree: 100%
 
 ## Veelgestelde vragen over de beëindiging van de service voor [!DNL Search&Promote]
 
-### **_Op welke datum stopt [!DNL Search&Promote] met functioneren?_**
+### **_Op welke datum [!DNL Search&Promote] ophouden te werken?_**
 
-De beëindiging van de service van [!DNL Adobe Search&Promote] is gepland voor **1 september 2022**. Op die datum is de [!DNL Search&Promote] administratieve gebruikersinterface niet langer toegankelijk en zullen aanvragen aan [!DNL Search&Promote] API&#39;s geen resultaten meer opleveren. Vóór deze datum zal de service volledig beschikbaar en functioneel zijn. Vooruitlopend op 1 september 2022 worden contractuele rechten op [!DNL Search&Promote] niet meer toegestaan na 31 augustus 2022.
+End-of-Service for [!DNL Adobe Search&Promote] was gepland voor **1 september 2022**. Op die datum [!DNL Search&Promote] de administratieve gebruikersinterface niet meer toegankelijk was en verzoeken aan [!DNL Search&Promote] API&#39;s leveren geen resultaten meer.
 
 ### **_Wat gebeurt er als een zoekopdracht of andere API-aanvraag wordt uitgevoerd bij [!DNL Search&Promote]?_**
 
-Zoekopdrachten en andere API-aanvragen die zijn gedaan aan [!DNL Search&Promote], zullen geen resultaten meer retourneren. Aanvragen kunnen resulteren in een fout &#39;Host niet gevonden&#39;, een 3xx HTTP-omleiding of een HTTP-fout zoals 404, 408 of een andere HTTP-foutcode.
+Zoeken en andere API-verzoeken gericht op [!DNL Search&Promote] retourneert niet langer de resultaten. Aanvragen kunnen resulteren in een fout &#39;Host niet gevonden&#39;, een 3xx HTTP-omleiding of een HTTP-fout zoals 404, 408 of een andere HTTP-foutcode.
 
 ### **_Heeft Adobe alternatieve opties voor het zoeken op sites en naar commerce?_**
 
-Ja. Voor het zoeken naar producten en commerce is [Live Search van [!DNL Adobe Commerce]](https://devdocs.magento.com/live-search/overview.html) de toekomstige zoektoepassing van Adobe.
+Ja. Voor het zoeken naar producten en commerce is [Live Search van [!DNL Adobe Commerce]](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/guide-overview.html?lang=en) de toekomstige zoektoepassing van Adobe.
 
 <!-- ### **_Can Adobe recommend any frameworks or platforms that offer features similar to Search&Promote?_**
 
