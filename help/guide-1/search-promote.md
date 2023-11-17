@@ -3,9 +3,9 @@ title: "[!DNL Adobe Search&Promote] Aankondiging beëindiging service"
 description: Meer informatie over de [!DNL Adobe Search&Promote] aankondiging beëindiging service.
 exl-id: 1e062554-090b-4275-8595-8ae4233c58d7
 source-git-commit: d9284331dedc7534dbcaf6eb1b44a7506af5baa0
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '156'
+ht-degree: 100%
 
 ---
 
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 ## Veelgestelde vragen over de beëindiging van de service voor [!DNL Search&Promote]
 
-### **_Op welke datum [!DNL Search&Promote] ophouden te werken?_**
+### **_Op welke datum stopte [!DNL Search&Promote] met functioneren?_**
 
-End-of-Service for [!DNL Adobe Search&Promote] was gepland voor **1 september 2022**. Op die datum [!DNL Search&Promote] de administratieve gebruikersinterface niet meer toegankelijk was en verzoeken aan [!DNL Search&Promote] API&#39;s leveren geen resultaten meer.
+De beëindiging van de service voor [!DNL Adobe Search&Promote] was gepland voor **1 september 2022**. Op die datum was de administratieve gebruikersinterface van [!DNL Search&Promote] niet langer toegankelijk en leverden aanvragen aan [!DNL Search&Promote]-API&#39;s geen resultaten meer op.
 
-### **_Wat gebeurt er als een zoekopdracht of andere API-aanvraag wordt uitgevoerd bij [!DNL Search&Promote]?_**
+### **_Wat gebeurt er als een zoekopdracht of andere API-aanvraag wordt ingediend bij [!DNL Search&Promote]?_**
 
-Zoeken en andere API-verzoeken gericht op [!DNL Search&Promote] retourneert niet langer de resultaten. Aanvragen kunnen resulteren in een fout &#39;Host niet gevonden&#39;, een 3xx HTTP-omleiding of een HTTP-fout zoals 404, 408 of een andere HTTP-foutcode.
+Zoekopdrachten en andere API-aanvragen voor [!DNL Search&Promote] leveren geen resultaten meer op. Aanvragen kunnen resulteren in een fout &#39;Host niet gevonden&#39;, een 3xx HTTP-omleiding of een HTTP-fout zoals 404, 408 of een andere HTTP-foutcode.
 
 ### **_Heeft Adobe alternatieve opties voor het zoeken op sites en naar commerce?_**
 
-Ja. Voor het zoeken naar producten en commerce is [Live Search van [!DNL Adobe Commerce]](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/guide-overview.html?lang=en) de toekomstige zoektoepassing van Adobe.
+Ja. Voor het zoeken naar producten en commerce is [Live Search van [!DNL Adobe Commerce]](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/guide-overview.html?lang=nl) de toekomstige zoektoepassing van Adobe.
 
 <!-- ### **_Can Adobe recommend any frameworks or platforms that offer features similar to Search&Promote?_**
 
