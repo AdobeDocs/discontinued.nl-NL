@@ -2,8 +2,8 @@
 title: Overzicht van beëindigde [!DNL Adobe Experience Cloud] producten
 description: Overzicht van producten voor [!DNL Adobe Experience Cloud] en [!DNL Adobe Experience Platform] die zijn beëindigd, buiten gebruik gesteld of aan het eind van hun levensduur
 exl-id: 4841f7b3-993b-4406-81b1-3fb3fbbff453
-source-git-commit: 55fd2cc6ba04830e11d87730b5a8921f5f0fb6dd
-workflow-type: tm+mt
+source-git-commit: e9f709eb76e4a00bb6d438dd5505c160e064e407
+workflow-type: ht
 source-wordcount: '112'
 ht-degree: 100%
 
@@ -20,6 +20,7 @@ Adobe beëindigt af en toe de verkoop, ontwikkeling van of ondersteuning voor ee
 * [[!DNL Experience Platform Auditor]](auditor.md)
 * [[!DNL Livefyre]](livefyre.md)
 * [[!DNL Mobile Services]](https://experienceleague.adobe.com/docs/mobile-services/using/eol.html?lang=nl){target="_blank"}
+* [[!DNL Reports & Analytics]](reports-and-analytics.md)
 * [[!DNL Search&Promote]](search-promote.md)
 * [[!DNL Social]](social.md)
 * [[!DNL Experience Cloud Library]](experience-cloud-library.md)
