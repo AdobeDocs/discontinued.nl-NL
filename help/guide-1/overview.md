@@ -3,7 +3,7 @@ title: Overzicht van beëindigde [!DNL Adobe Experience Cloud] producten
 description: Overzicht van producten voor [!DNL Adobe Experience Cloud] en [!DNL Adobe Experience Platform] die zijn beëindigd, buiten gebruik gesteld of aan het eind van hun levensduur
 exl-id: 4841f7b3-993b-4406-81b1-3fb3fbbff453
 source-git-commit: e9f709eb76e4a00bb6d438dd5505c160e064e407
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 100%
 
