@@ -1,13 +1,13 @@
 ---
-title: "Einde van levensduur voor [!DNL Data Workbench]"
+title: '''[!DNL Data Workbench] einde van de levensduur"'
 description: In dit document worden veelgestelde vragen behandeld over het einde van de levensduur van  [!DNL Data Workbench].
-source-git-commit: e1e9afda7c64a1343d533d0c200296efbe7872e8
-workflow-type: ht
+exl-id: 88a2c977-2c21-4bf8-9d58-24cb1ea2a075
+source-git-commit: d8a954bf197c87d3ef705bdf8bc67b9810c2502b
+workflow-type: tm+mt
 source-wordcount: '380'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
-
 
 # Veelgestelde vragen over einde levensduur van Data Workbench
 

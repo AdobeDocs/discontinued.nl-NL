@@ -1,13 +1,13 @@
 ---
 title: Kennisgeving over einde levensduur van Reports and Analytics
 description: Herinnering over einde van levensduur van Reports and Analytics.
-source-git-commit: be4a66818a404f8fa18daed94bb25401424dcefa
-workflow-type: ht
+exl-id: e6d8f3e7-7070-44f9-aa2a-aad297d15847
+source-git-commit: d8a954bf197c87d3ef705bdf8bc67b9810c2502b
+workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 100%
 
 ---
-
 
 # Kennisgeving over einde levensduur van Reports and Analytics
 
