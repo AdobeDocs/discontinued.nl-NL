@@ -3,8 +3,8 @@ title: "[!DNL Adobe Search&Promote] Aankondiging beëindiging service"
 description: Meer informatie over de [!DNL Adobe Search&Promote] aankondiging beëindiging service.
 exl-id: 1e062554-090b-4275-8595-8ae4233c58d7
 source-git-commit: d9284331dedc7534dbcaf6eb1b44a7506af5baa0
-workflow-type: ht
-source-wordcount: '156'
+workflow-type: tm+mt
+source-wordcount: '151'
 ht-degree: 100%
 
 ---

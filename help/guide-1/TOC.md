@@ -1,7 +1,7 @@
 ---
-user-guide-title: Producten stopgezet voor [!DNL Adobe Experience Cloud]
+user-guide-title: Afgelopen producten voor  [!DNL Adobe Experience Cloud]
 breadcrumb-title: Beëindigde producten
-user-guide-description: Lijst van afgebroken producten voor [!DNL Adobe Experience Cloud].
+user-guide-description: Lijst van beëindigde producten voor  [!DNL Adobe Experience Cloud].
 source-git-commit: bc0872ad51eb6e4f8a589dee625145909b6a5a63
 workflow-type: tm+mt
 source-wordcount: '32'
