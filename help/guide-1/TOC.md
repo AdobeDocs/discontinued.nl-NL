@@ -2,10 +2,10 @@
 user-guide-title: Afgelopen producten voor  [!DNL Adobe Experience Cloud]
 breadcrumb-title: Beëindigde producten
 user-guide-description: Lijst van beëindigde producten voor  [!DNL Adobe Experience Cloud].
-source-git-commit: bc0872ad51eb6e4f8a589dee625145909b6a5a63
+source-git-commit: 6cd955bbc9556dd0f097bb1ee735321a26f252ee
 workflow-type: tm+mt
-source-wordcount: '32'
-ht-degree: 59%
+source-wordcount: '37'
+ht-degree: 51%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 59%
 + [Gegevensverbindingen](data-connectors.md)
 + [Data Workbench](data-workbench.md)
 + [Device Co-op](device-co-op.md)
++ [Channel Manager voor Adobe Commerce](commerce-channels.md)
 + [Experience Cloud-bibliotheek](experience-cloud-library.md)
 + [Experience Platform Auditor](auditor.md)
 + [Livefyre](livefyre.md)
