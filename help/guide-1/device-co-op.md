@@ -3,10 +3,10 @@ keywords: adobe experience cloud;Adobe Experience Cloud;device co-op;Device Co-o
 title: Veelgestelde vragen over het einde van de levensduur voor [!DNL Device Co-op]
 description: Ontdek meer over de plannen voor het einde van de levensduur voor de Device Co-op.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
-source-git-commit: 4138a53d2aec43caba319de302593ed9ece36c38
+source-git-commit: 2e33e76c0fbb45661fd92297b0f91e5b8f304b6c
 workflow-type: tm+mt
 source-wordcount: '1048'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -50,7 +50,7 @@ De volgende toepassingen worden beïnvloed door de procedures voor het einde van
 
 - [[!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics.html?lang=nl)
 - [[!DNL Adobe Audience Manager]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=nl)
-- [[!DNL Adobe Advertising Cloud]](https://experienceleague.adobe.com/docs/advertising-cloud.html?lang=nl)
+- [[!DNL Adobe Advertising]](https://experienceleague.adobe.com/docs/advertising)
 - [[!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target/using/introduction/intro.html?lang=nl)
 
 ## Welke opties heb ik als alternatief voor [!DNL Device Co-op]?
