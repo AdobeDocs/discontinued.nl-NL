@@ -15,5 +15,5 @@ Vanaf maart 2020 heeft Adobe de Adobe Experience Cloud-bibliotheek officieel be√
 
 **Verwante functies**
 
-* [ Experience Cloud Assets ](https://experienceleague.adobe.com/docs/core-services/interface/services/assets/experience-cloud-assets.html?lang=nl) {target=_blank}
+* [ Experience Cloud Assets ](https://experienceleague.adobe.com/docs/core-services/interface/services/assets/experience-cloud-assets.html?lang=nl){target=_blank} 
 * [AEM-assets](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/home.html?lang=nl){target=_blank}
