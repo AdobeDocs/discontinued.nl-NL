@@ -50,7 +50,7 @@ De volgende toepassingen worden beïnvloed door de procedures voor het einde van
 
 - [[!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics.html?lang=nl)
 - [[!DNL Adobe Audience Manager]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=nl)
-- [[!DNL Adobe Advertising]](https://experienceleague.adobe.com/docs/advertising.html?lang=en)
+- [[!DNL Adobe Advertising]](https://experienceleague.adobe.com/docs/advertising.html?lang=nl-NL)
 - [[!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target/using/introduction/intro.html?lang=nl)
 
 ## Welke opties heb ik als alternatief voor [!DNL Device Co-op]?
