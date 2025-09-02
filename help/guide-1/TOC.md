@@ -2,10 +2,10 @@
 user-guide-title: Afgelopen producten voor  [!DNL Adobe Experience Cloud]
 breadcrumb-title: Beëindigde producten
 user-guide-description: Lijst van beëindigde producten voor  [!DNL Adobe Experience Cloud].
-source-git-commit: 2ee8e27d36986904dce92a33a161aefcf9ce94c1
+source-git-commit: 388f61fa721e0fedf858634dde807baeadde06f3
 workflow-type: tm+mt
-source-wordcount: '41'
-ht-degree: 46%
+source-wordcount: '43'
+ht-degree: 44%
 
 ---
 
@@ -26,3 +26,4 @@ ht-degree: 46%
 + [Social](social.md)
 + [Verborgen test](hidden-test.md)
 + [Verborgen test 1.1](hidden-test-1.1.md)
++ [Verborgen probleemoplossing](hidden-troubleshooting.md)
